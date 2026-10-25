@@ -26,3 +26,9 @@ ul {
 .marg-jobb {
     margin-right: 25px;
 }
+
+.dal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
